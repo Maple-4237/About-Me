@@ -1,7 +1,8 @@
 # About-Me
 Hello my name is Aidan Caldararo and I am currently attending Kennesaw State University as a cybersecurity major. Outside of my school I also attended a course to learn more about Data Science with Python and SQL. To further my education in that field I've started attending a course with University of California Berkeley for ML / AI. 
 
-##What I've Done
+## What I've Done
+
 ### For class
 In school I've done a variety of activities involving cybersecurity
 - Policy and Governance
